@@ -1,6 +1,7 @@
-### 👋 소개
----
-안녕하세요! 계속해서 이로운 것을 고민하고 만드는 최재훈입니다!
+## 👋 소개
+안녕하세요! 계속해서 이로운 것을 고민하고 만드는 **최재훈**입니다!
+
+
 <!--
 **6ftg0s0/6ftg0s0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
